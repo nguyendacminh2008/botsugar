@@ -1,0 +1,12 @@
+{
+    "ip": "SugarTeam.aternos.me",
+    "port": "14094",
+    "name": "botsugar",
+    "auto-night-skip": "false",
+    "prefix": "",
+    "login-enabled": "false",
+    "register-cmd": "/login kartikopp kartikopp",
+    "login-cmd": "/login kartikopp",
+    "loginmsg": "",
+    "auto-reconnect": "true"
+}
